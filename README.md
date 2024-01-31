@@ -15,7 +15,7 @@
    - Back in the index.html file, add a link to the recipe page you just created. Example: Under the `<h1>Odin Recipes</h1>` heading, write out the link like so: `<a href="recipes/recipename.html">Recipe Title</a>`. The text of the link should again be the recipe name.
 
 3. ### Iteration 3: recipe page content
-Your new recipe page should have the following content:
+   - Your new recipe page should have the following content:
    - An image of the finished dish under the h1 heading that you added earlier. You can find images of the dish on Google or the **recipe site** we linked to earlier.
    -  Under the image, it should have an appropriately sized “Description” heading followed by a paragraph or two describing the recipe.
    -  Under the description, add an “Ingredients” heading followed by an **unordered list** of the ingredients needed for the recipe.
